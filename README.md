@@ -6,7 +6,8 @@
 - CSS
 - JS
 ##  Como utilizar?
-Projeto x-men, é um projeto bem simples, onde você ira passar o mousse sobre a seleção de personagens, e automaticamente mostrara a imagem com nome e descrição do personagem selecionado
+Projeto x-men, é um projeto bem simples, onde você ira passar o mousse sobre a seleção de personagens, e automaticamente mostrara a imagem com nome e descrição do personagem selecionado.
+
 
 ## versão mobile
 [<img src="./src/imagens/mobile.gif" alt="tela gif">]
